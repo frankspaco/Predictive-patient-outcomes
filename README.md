@@ -1,5 +1,21 @@
 # Predictive Patient Outcomes Using Machine Learning
 
+## Project Overview
+
+This notebook demonstrates an end-to-end machine learning workflow for predicting patient outcomes using healthcare data.
+
+The workflow includes:
+
+- Data preparation
+- Data cleaning
+- Feature engineering
+- Machine learning model development
+- Model evaluation
+- Feature importance analysis
+- Model explainability using SHAP
+
+This notebook accompanies the documentation provided within this repository.
+
 ## Project Features
 
 ✔ Healthcare data preprocessing
