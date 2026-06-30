@@ -91,6 +91,19 @@ Weighted averages were used to account for class distribution across the target 
 
 The notebook also supports visual evaluation using confusion matrices and ROC curves.
 
+## Challenges Encountered
+
+During model evaluation, the initial Logistic Regression model produced class imbalance warnings, resulting in an `UndefinedMetricWarning` for precision on some classes.
+
+This highlighted the challenges associated with imbalanced healthcare datasets, where certain outcome classes were underrepresented.
+
+The evaluation process reinforced the importance of:
+
+- Understanding class imbalance
+- Selecting appropriate evaluation metrics
+- Interpreting model performance beyond overall accuracy
+- Considering alternative modelling and balancing techniques for future improvements
+
 ## Skills Demonstrated
 
 ### Data Engineering
