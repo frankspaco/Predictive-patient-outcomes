@@ -21,6 +21,10 @@
 
 This project was completed as part of my MSc in Applied Artificial Intelligence and Data Analytics. It explores how machine learning can be used to predict patient outcomes using healthcare data.
 
+## Portfolio Note
+
+This project was originally completed as part of my MSc in Applied Artificial Intelligence and Data Analytics. The repository has since been reorganised and documented to present the work clearly as part of my professional data portfolio.
+
 The project involved preparing and analysing patient-related data, building predictive models, and evaluating model performance using appropriate machine learning metrics.
 
 ## Project Aim
